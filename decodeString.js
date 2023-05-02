@@ -14,7 +14,7 @@ function decodeString(string) {
         continue
         }
     }
-    // return answer
+    return answer
 }
 decodeString("2fcjjm")
 
